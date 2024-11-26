@@ -1,0 +1,36 @@
+{
+  "name": "interverse-front",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
+    "@fortawesome/free-regular-svg-icons": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/vue-fontawesome": "^3.0.8",
+    "@stripe/stripe-js": "^4.4.0",
+    "@vueform/vueform": "^1.10.3",
+    "axios": "^1.7.4",
+    "bootstrap": "^5.3.3",
+    "pinia": "^2.2.2",
+    "pinia-plugin-persistedstate": "^3.2.1",
+    "sweetalert2": "^11.14.0",
+    "swiper": "^11.1.12",
+    "tocas": "^5.0.1",
+    "vue": "^3.4.29",
+    "vue-router": "^4.4.3",
+    "vuejs-paginate-next": "^1.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "naive-ui": "^2.39.0",
+    "vfonts": "^0.0.3",
+    "vite": "^5.3.1"
+  }
+}
